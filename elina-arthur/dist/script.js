@@ -1,4 +1,4 @@
-var mp3 ='https://github.com/Elinaref/Elinaref.github.io/blob/c162c92ab5e5606684cbc156000d19b2b694c154/elina-arthur/dist/audio/181068__lolamadeus__zombie-vocals-grunts.wav';
+var mp3 ='http://Elinaref.github.io/elina-arthur/dist/audio/181068__lolamadeus__zombie-vocals-grunts.wav';
 // let player = new Tone.Player(mp3).toMaster();
 // Tone.loaded().then(() => {
 // 	player.start();
