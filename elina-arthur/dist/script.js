@@ -1,4 +1,4 @@
-var mp3 ="https://github.com/SwissBozo/files/blob/36725e20eb3a94dee441867ddeb840bb01046e92/181373__l4red0__zombie-drooling.wav?raw=true";
+var mp3 ='https://github.com/Elinaref/Elinaref.github.io/blob/c162c92ab5e5606684cbc156000d19b2b694c154/elina-arthur/dist/audio/181068__lolamadeus__zombie-vocals-grunts.wav';
 // let player = new Tone.Player(mp3).toMaster();
 // Tone.loaded().then(() => {
 // 	player.start();
